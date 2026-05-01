@@ -96,15 +96,15 @@ Track&Count.ipynb
 
 ## 🎥 Demo Video
 
-👉 Watch demo here:
-**[Click to view demo video]((https://drive.google.com/file/d/1B1AAZV0TU9mFoeMJeZrQheDY237DNgco/view?usp=sharing))**
+## Watch demo here:
+https://drive.google.com/file/d/1B1AAZV0TU9mFoeMJeZrQheDY237DNgco/view?usp=sharing))
 
 ---
 
 ## 📂Test Videos
 
 You can try with other videos as well. The video files are given below:
-**[Click to view other video files]((https://drive.google.com/drive/folders/1Q4D0qTKO4ImX7mZF3LZAX2VjY6Fjv7jq?usp=sharing))**
+https://drive.google.com/drive/folders/1Q4D0qTKO4ImX7mZF3LZAX2VjY6Fjv7jq?usp=sharing
 
 ---
 
