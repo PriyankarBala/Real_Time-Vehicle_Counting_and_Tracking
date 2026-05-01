@@ -6,6 +6,12 @@ This project implements a **real-time vehicle detection, tracking, and counting 
 
 ---
 
+## 🎥 Demo Preview
+
+![Demo](demo.gif)
+
+---
+
 ## 🎯 Features
 
 * 🚘 Vehicle detection using YOLO
