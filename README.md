@@ -49,8 +49,6 @@ git clone https://github.com/PriyankarBala/Real_Time-Vehicle_Counting_and_Tracki
 cd Real_Time-Vehicle_Counting_and_Tracking
 ```
 
----
-
 ### 2️⃣ Create virtual environment
 
 ```bash
@@ -64,8 +62,6 @@ Activate it:
 ```bash
 .\.venv\Scripts\activate
 ```
-
----
 
 ### 3️⃣ Install dependencies
 
