@@ -97,7 +97,7 @@ Track&Count.ipynb
 ## 🎥 Demo Video
 
 ## Watch demo here:
-https://drive.google.com/file/d/1B1AAZV0TU9mFoeMJeZrQheDY237DNgco/view?usp=sharing))
+https://drive.google.com/file/d/1B1AAZV0TU9mFoeMJeZrQheDY237DNgco/view?usp=sharing
 
 ---
 
@@ -119,12 +119,12 @@ https://drive.google.com/drive/folders/1Q4D0qTKO4ImX7mZF3LZAX2VjY6Fjv7jq?usp=sha
 
 ## 🧪 Requirements
 
-ultralytics
-opencv-python
-numpy
-torch
-torchvision
-torchaudio
+* ultralytics
+* opencv-python
+* numpy
+* torch
+* torchvision
+* torchaudio
 
 ---
 
